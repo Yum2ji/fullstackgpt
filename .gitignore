@@ -1,0 +1,8 @@
+# python -m venv ./env
+# .\env\Scripts\Activate.ps1
+
+.venv
+env/
+.env
+files/
+.cache/
